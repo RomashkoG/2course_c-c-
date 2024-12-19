@@ -1,0 +1,3 @@
+Kyiv, Khreshchatyk, 1, 1, Ukraine, 01001
+Kyiv, Khreshchatyk, 2, 2, Ukraine, 01001
+Kyiv, Khreshchatyk, 4, 4, Ukraine, 01001
